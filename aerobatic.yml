@@ -1,0 +1,7 @@
+deploy:
+  directory: .
+  optimizer:
+    inlineCriticalCss: true
+plugins:
+  - name: webpage
+id: 3141a6e0-77c1-4301-8cc3-affcb21408b4
